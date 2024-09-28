@@ -5,8 +5,8 @@
 // @match        https://tg-app.memefi.club/*
 // @grant        none
 // @icon         https://s2.coinmarketcap.com/static/img/coins/64x64/29373.png
-// @downloadURL  https://raw.githubusercontent.com/clowobis/memefiZ/refs/heads/main/memefi-auto.js
-// @updateURL    https://raw.githubusercontent.com/clowobis/memefiZ/refs/heads/main/memefi-auto.js
+// @downloadURL  https://github.com/clowobis/memefiZ/raw/main/memefi-auto.js
+// @updateURL    https://github.com/clowobis/memefiZ/raw/main/memefi-auto.js
 // @homepage     https://github.com/clowobis/memefiZ
 // ==/UserScript==
 
