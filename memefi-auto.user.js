@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MemeFI Autoclicker
 // @version      2.2
-// @author       btc63amg
+// @author       clowobis
 // @match        https://tg-app.memefi.club/*
 // @grant        none
 // @icon         https://s2.coinmarketcap.com/static/img/coins/64x64/29373.png
